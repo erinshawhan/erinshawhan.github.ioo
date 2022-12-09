@@ -1,0 +1,43 @@
+body {
+    background-color: lavenderblush;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.header {
+    color: maroon;
+    margin-left: 30px;
+}
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 10px;
+    margin-right: 8%;
+}
+
+p {
+    font-size: large;
+}
+
+table, p, li{
+    background-color: snow;
+}
+
+.list-title {
+    background-color: azure;
+}
+
+thead {
+    font-size: larger;
+    background-color: thistle;
+}
+
+.menu {
+    background-color: lavenderblush;
+}
